@@ -1,5 +1,6 @@
 #dropbear
-ScriptScript to install Dropbear on your distribution.
+
+Script to install Dropbear on your distribution.
 
 wget -O /bin/drop https://raw.githubusercontent.com/srbuu/dropbear/master/drop
 
